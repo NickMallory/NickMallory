@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NickMallory
+- 👋 Hi, I’m Mahlatse (Nick)
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently still leaving a huge room to learn more about swift
 - 💞️ I’m looking to collaborate on any major projects related to iOS 
