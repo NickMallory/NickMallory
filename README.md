@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mahlatse (Nick)
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Business Intelligence Developer/QA Tester
 - 🌱 I’m currently still leaving a huge room to learn more about swift
 - 💞️ I’m looking to collaborate on any major projects related to iOS 
 - 📫 How to reach me, my email address is mahlatsechiloane7@gmail.com
