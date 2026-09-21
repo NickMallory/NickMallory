@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mahlatse Chiloane (Nick)
-- 👀 I’m interested in Business Intelligence Development/QA Tester
-- 🌱 I’m currently still leaving a huge room to learn more about my field.
-- 💞️ I’m looking to collaborate on any major projects related to SQL, SSRS, Selenuim,AI Promting 
-- 📫 How to reach me, my email address is mahlatsechiloane7@gmail.com
+👋 Hi, I’m Mahlatse Chiloane (Nick) — a Data & Business Intelligence professional with 4+ years of experience in SQL Server, T-SQL, SSRS, Power BI, data analysis, and reporting solutions.
+👀 Interested in Data Solutions Engineering, BI, Data Analytics, SQL Development, Data Engineering, and software testing.
+🌱 Currently expanding my skills in data engineering, data integration, modern data platforms, and AI-assisted development.
+💞️ Open to collaborating on projects involving SQL, BI, analytics, automation, testing, and data solutions.
+📫 Reach me at: mahlatsechiloane7@gmail.com
 
 <!---
 NickMallory/NickMallory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
